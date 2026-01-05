@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hossain Sajjad</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">Shopify Developer | MERN Stack Enthusiast</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="left">👏MERN stack Developer</h3>
-<h3 align="left">✌ Love to Code and Do Problem Solving</h3>
-<h3 align="left">💕Passionate About Learning</h3>
 
+### 🛠️ Skills
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossain-sajjad&label=Profile%20views&color=0e75b6&style=flat" alt="hossain-sajjad" /> </p>
+- **Shopify**: App & Theme Development, Liquid, Polaris, GraphQL, REST API
+- **MERN Stack**: MongoDB, Express, React, Node.js
+- **Front-End**: HTML, CSS, JavaScript, Tailwind CSS
 
-<h3 align="left">Connect with me:</h3>
+### 📚 What I Do
 
-- 📫 **from.hossainsajjad@gmail.com**
+- Build **custom Shopify apps** and **dynamic themes**.
+- Optimize **Shopify stores** for performance & user experience.
+- Focus on **responsive design** and **seamless e-commerce solutions**.
 
-<p align="left">
-<a href="https://linkedin.com/in/hossain-sajjad-41b5ba241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossain-sajjad-41b5ba241" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100004873998766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100004873998766" height="30" width="40" /></a>
-<a href="https://instagram.com/hossain_5ajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hossain_5ajjad" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hossain_sajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hossain_sajjad" height="30" width="40" /></a>
-</p>
+### 📩 Reach Out
 
-
-
+- Email: **from.hossainsajjad@gmail.com**
+- LinkedIn: [Hossain Sajjad](https://linkedin.com/in/hossain-sajjad-41b5ba241)
